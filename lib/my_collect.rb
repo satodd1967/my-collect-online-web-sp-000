@@ -1,6 +1,7 @@
 def my_collect(array)
   i = 0
-  while 
+  collection = []
+  while array.length
 end
 
 
