@@ -1,4 +1,4 @@
-def my_collect(array) do |collection|
+def my_collect(array)
 end
-end
+
 
